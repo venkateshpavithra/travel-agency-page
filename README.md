@@ -46,7 +46,7 @@ Screenshot 2025-11-25 134132.png
 ![Travel Agency Page Screenshot](Screenshot%202025-11-25%20134130.png)
 
 ### Screenshot 2  
-![Travel Agency Page Screenshot](Screenshot%202025-11-25%20134132.png)
+![Travel Agency Page Screenshot](Screenshot 2025-11-25 134532.png).
 
 ---
 
@@ -67,6 +67,7 @@ Through this project, I learned and practiced:
 
 If you'd like to connect or provide feedback, feel free to reach out on **LinkedIn**.  
 I’m actively working toward becoming a **Frontend Developer**, and I’m excited to keep learning and building!
+
 
 
 
